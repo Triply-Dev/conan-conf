@@ -1,0 +1,7 @@
+triply https://conan.triply.cc
+conan-center https://api.bintray.com/conan/conan/conan-center
+bincrafters https://api.bintray.com/conan/bincrafters/public-conan
+conan-community https://api.bintray.com/conan/conan-community/conan
+pix4d https://api.bintray.com/conan/pix4d/conan
+ranges https://api.bintray.com/conan/range-v3/range-v3
+catchorg https://api.bintray.com/conan/catchorg/Catch2
