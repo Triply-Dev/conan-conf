@@ -5,7 +5,7 @@ Easy installation of Conan configuration.
 ## Installation
 
 ```sh
-conan config install https://github.com/Triply-Dev/conan-conf/.git --type git
+conan config install https://github.com/Triply-Dev/conan-conf.git --type git
 ```
 
 ## Open issues
