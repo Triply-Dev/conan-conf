@@ -1,4 +1,5 @@
 triply https://conan.triply.cc
+gitlab https://git.triply.cc/api/v4/packages/conan
 conan-center https://api.bintray.com/conan/conan/conan-center
 bincrafters https://api.bintray.com/conan/bincrafters/public-conan
 conan-community https://api.bintray.com/conan/conan-community/conan
