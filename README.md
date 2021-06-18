@@ -8,6 +8,12 @@ Easy installation of Conan configuration.
 conan config install https://github.com/Triply-Dev/conan-conf.git --type git
 ```
 
+The Bincrafters registry requires that the following configuration setting is made:
+
+```sh
+conan config set general.revisions_enabled=1
+```
+
 ## Open issues
 
 ### Modern Conan names give errors in Gitlab
