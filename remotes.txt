@@ -1,5 +1,4 @@
-gitlab https://git.triply.cc/api/v4/packages/conan
 conan-center https://api.bintray.com/conan/conan/conan-center
 bincrafters https://api.bintray.com/conan/bincrafters/public-conan
 pix4d https://api.bintray.com/conan/pix4d/conan
-
+gitlab https://git.triply.cc/api/v4/packages/conan
