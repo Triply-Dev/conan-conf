@@ -53,18 +53,13 @@ following structure:
 {
   "remotes": [
     {
-      "name": "conan-center",
-      "url": "https://conan.bintray.com",
-      "verify_ssl": true
-    },
-    {
-      "name": "bincrafters",
-      "url": "https://api.bintray.com/conan/bincrafters/public-conan",
+      "name": "conancenter",
+      "url": "https://center.conan.io",
       "verify_ssl": true
     },
     {
       "name": "triply",
-      "url": "https://triplybv.jfrog.io/artifactory/api/conan/triply-conan-local",
+      "url": "https://git.triply.cc/api/v4/packages/conan",
       "verify_ssl": true
     }
   ]
