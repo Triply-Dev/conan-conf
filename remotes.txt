@@ -1,3 +1,2 @@
-bincrafters https://bincrafters.jfrog.io/artifactory/api/conan/public-conan
 conancenter https://center.conan.io
-gitlab https://git.triply.cc/api/v4/packages/conan
+triply https://triplydb.jfrog.io/artifactory/api/conan/conan-local
